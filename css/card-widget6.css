@@ -1,7 +1,16 @@
 div.card-widget.card-info{
-  background:rgba(255,239,203,0.8);
+  background:rgba(255,239,203,0.7);
 }
 div.card-widget.card-recent-post{
-  background:rgba(255,239,203,0.8);
+  background:rgba(255,239,203,0.7);
+}
+div.card-widget.card-categories{
+  background:rgba(255,239,203,0.7);
+}
+div.card-widget.card-tags{
+  background:rgba(255,239,203,0.7);
+}
+div.card-widget.card-webinfo{
+  background:rgba(255,239,203,0.7);
 }
 
