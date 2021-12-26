@@ -108,7 +108,7 @@ a i {
 }
 
 p{
-    cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_IBeam2.0.cur), default;
+    cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_IBeam2.0.cur), default !important;
 }
 
 /* .avatar-img {
