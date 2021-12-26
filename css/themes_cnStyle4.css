@@ -97,7 +97,7 @@ div.card-widget.card-webinfo {
 
 body,
 .post-meta-date {
-    cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/Pen.cur), default;
+    cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_Pen.cur), default;
 }
 
 a,
@@ -107,10 +107,11 @@ a i {
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_Hand2.0.cur), default !important;
 }
 
-p {
+p ,
+pre{
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_IBeam2.0.cur), default;
 }
 
-.avatar-img {
+/* .avatar-img {
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_Pen.cur), default;
-}
+} */
