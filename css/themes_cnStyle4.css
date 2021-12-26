@@ -107,11 +107,13 @@ a i {
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_Hand2.0.cur), default !important;
 }
 
-p ,
-pre{
+p{
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_IBeam2.0.cur), default;
 }
 
 /* .avatar-img {
     cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_Pen.cur), default;
+} */
+/* pre{
+    cursor: url(https://cdn.jsdelivr.net/gh/yolin51/BlogSource/css/cursor/m_IBeam2.0.cur), default;
 } */
